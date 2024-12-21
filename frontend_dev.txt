@@ -1,0 +1,6 @@
+header
+body
+side
+footer
+copy right
+contact
